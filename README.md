@@ -80,4 +80,4 @@ C:\Users\username\Desktop\checkoutApp>npm start
 ```
 
 If everything goes well you should see a screen like this
-[[https://github.com/ubhibhupinder/checkOutApp/screnshot/app-home.png|alt=checkoutApp]]
+[[https://github.com/ubhibhupinder/checkOutApp/blob/master/screenshot/app-home.png|alt=checkoutApp]]
