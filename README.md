@@ -79,4 +79,11 @@ Now run the npm start command to start the server
 C:\Users\username\Desktop\checkoutApp>npm start
 ```
 
+Now go to the browser window and hit the url http:\\localhost:<port-number>.
+For my setup the port number is 7777 hence the url below
+
+```
+http:\\localhost:7777
+```
+
 If everything goes well you should see a screen [like this](https://github.com/ubhibhupinder/checkOutApp/blob/master/screenshot/app-home.png)
